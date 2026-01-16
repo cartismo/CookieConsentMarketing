@@ -1,0 +1,12 @@
+{
+    "name": "CookieConsentMarketing",
+    "alias": "cookieconsentmarketing",
+    "description": "GDPR-compliant cookie consent banner with customizable categories and scripts management.",
+    "keywords": ["cookie", "consent", "gdpr", "privacy", "marketing"],
+    "priority": 0,
+    "providers": [
+        "Modules\\CookieConsentMarketing\\Providers\\ServiceProvider",
+        "Modules\\CookieConsentMarketing\\Providers\\RouteServiceProvider"
+    ],
+    "files": []
+}
